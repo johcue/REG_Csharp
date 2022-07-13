@@ -1,10 +1,7 @@
 # User registration and control
-Name
-Address
-Telephone
-Date (dd/mm/yy)
-Social stratum
-Tuition cost
+Name, Address, Telephone, Date (dd/mm/yy), Social stratum and Tuition cost.
+
+The system does:
 
 1. Add
 2. Show lists
